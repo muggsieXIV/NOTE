@@ -8,7 +8,7 @@ This is my **personal** and **secondary** GitHub account.
 
 ## Repository Visibility
 
-A majority of the repositories on this account are **private**.
+A majority of the repositories (281) on this account are **private**.
 
 This is intentional and primarily for:
 - **Data security**
